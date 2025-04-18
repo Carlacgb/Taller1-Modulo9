@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Diseño y desarrollo web",
+    "description": "Comunicación estratégica, desarrollo web y gestión interna para la Fundación Cultural Pulsar en Ecuador.",
+    "image": "/images/pulsar-ejemplo.JPG",
+    "liveUrl": "https://culturalpulsar.org/",
+    "tags": ["Hugo", "HTML", "CSS"]
+  },
+  {
+    "id": 2,
+    "name": "Diseño Web",
+    "description": "Diseño y montaje de sitio web para exposición fotográfica socioambiental Rostros, Voces y Territorios para UICN-Sur",
+    "image": "/images/rostros.png",
+    "liveUrl": "https://sites.google.com/view/rostrosvocesyterritorios/inicio",
+    "tags": ["HTML", "Ilustrator", "Photoshop", "GoogleSites"]
+  },
+  {
+    "id": 3,
+    "name": "Diseño y Marketing digital",
+    "description": "Diseño y gestión de redes sociales de la marca Kawsay, productos con amaranto",
+    "image": "/images/kawsay-2.jpg",
+    "liveUrl": "https://www.instagram.com/kawsay_alimentos/?hl=es-la",
+    "tags": ["Photoshop", "Ilustrador", "Premiere", "After Effects"]
+  }
+]

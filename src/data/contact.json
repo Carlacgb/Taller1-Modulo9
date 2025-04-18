@@ -1,0 +1,15 @@
+{
+  "email": "carlacgb@gmail.com",
+  "socialMedia": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/carla-garcia-becerra/",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com/Carlacgb",
+      "icon": "github"
+    }
+  ]
+}
